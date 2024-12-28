@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on some Awesome chatbots concepts like "Talk to your documents" and "Talk to your SQL DB or graph db"
+- 🌱 I’m currently learning self supervised learning & reinforced learning
+- 👯 I’m looking to collaborate on projects in self supervised learning
+- 🤔 I’m looking for help with _ all things AI
+- 💬 Ask me about - all things AI, Shaolin Kung Fu, Spirituality & Music
+- 📫 How to reach me: Checkout my linkedin in my profile
+- 😄 Pronouns: He/She
+- ⚡ Fun fact: Did you know that Kung Fu is actually just a term that means "Time spent on Skillful training, hard work or endeavour".
