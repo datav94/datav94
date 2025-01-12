@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Checkout my linkedin in my profile
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: Did you know that Kung Fu is actually just a term that means "Time spent on Skillful training, hard work or endeavour".
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="viral-gorecha-ai" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/viral-gorecha-ai/en?trk=profile-badge">Viral Hareshbhai Gorecha</a></div>
